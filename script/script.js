@@ -32,7 +32,7 @@ const total = arr.reduce((sum, element) => {
   return sum;
 }, 0);
 
-console.log(total);
+console.log(`total is: total`);
 breakline();
 
 let result = arr.some((element) => {
